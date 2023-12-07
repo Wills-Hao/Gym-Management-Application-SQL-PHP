@@ -1,4 +1,8 @@
 # Gym Management Application
+
+<img src="/dashboardImage.png" alt="Alt text" title="Fiteness and Wellness Management System">
+Webpage: https://www.students.cs.ubc.ca/~jhao2002/dashboard.php
+
 The project is based on a comprehensive fitness and health management application. The application is a combined platform for fitness enthusiasts and trainers that facilitates monitoring, organizing, and collaborating on different aspects of an individual's health progress. Its basic features include saving member details, logging workout routines, and recording body data. This enables trainers to provide customized advice and plans, as well as help optimize gym resources by efficiently managing room deployment and equipment usage.
 
 
