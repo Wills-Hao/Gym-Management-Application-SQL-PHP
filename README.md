@@ -27,3 +27,6 @@ There are three dashboards in our Fitness and Wellness Management System: Member
 - Find the trainer of a course
 
 
+
+Project of CPSC304 (Introduction to Relational Databases) at UBC
+
