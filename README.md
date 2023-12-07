@@ -28,5 +28,5 @@ There are three dashboards in our Fitness and Wellness Management System: Member
 
 
 
-Project of CPSC304 (Introduction to Relational Databases) at UBC
+Group Project of CPSC304 (Introduction to Relational Databases) at UBC
 
